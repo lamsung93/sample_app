@@ -1,14 +1,6 @@
 @import "bootstrap";
 
 /*footer*/
-.footer-list {
-  margin: auto;
-}
-.footer-list-item {
-  list-style: none;
-  display: inline;
-}
-
-.footer-list-link {
-  text-decoration: none;
+.container-fluid {
+  min-height: 480px;
 }
